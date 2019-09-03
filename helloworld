@@ -1,0 +1,11 @@
+package helloworld;
+
+public class hahahha {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("HelloWorld，"); 
+	}
+
+}
+这是写的第一个java程序
